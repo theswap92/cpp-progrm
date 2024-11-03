@@ -1,5 +1,5 @@
 # cpp-progrm
-//compression string 
+#compression string  means try to reduce the size
 #include<iostream>
 #include<vector>
 using namespace std;
